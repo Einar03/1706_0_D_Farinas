@@ -1,0 +1,32 @@
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.exe.config
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.exe
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.pdb
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csprojAssemblyReference.cache
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Form1.resources
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Properties.Resources.resources
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csproj.GenerateResource.cache
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csproj.CoreCompileInputs.cache
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.exe
+C:\Users\mardecrausaz\source\repos\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.pdb
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.exe.config
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.exe
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.pdb
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csprojAssemblyReference.cache
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Form1.resources
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Properties.Resources.resources
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csproj.GenerateResource.cache
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csproj.CoreCompileInputs.cache
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.exe
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.pdb
+C:\Users\einfarinasa\Desktop\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Form2.resources
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.exe.config
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.exe
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\bin\Debug\1706x_Spectrometre.pdb
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csprojAssemblyReference.cache
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Form1.resources
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Form2.resources
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\_1706x_Spectrometre.Properties.Resources.resources
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csproj.GenerateResource.cache
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.csproj.CoreCompileInputs.cache
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.exe
+C:\Users\einfarinasa\OneDrive - Education Vaud\2 Annee\POBJ\Projet\1706_0_D_Farinas\1706x_Spectrometre\1706x_Spectrometre\obj\Debug\1706x_Spectrometre.pdb
